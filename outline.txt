@@ -1,0 +1,29 @@
+Problem:
+  need to play black jack through python with no gui.
+  
+  
+  
+Player perspective:
+
+  1. Game intialize
+  2. Player gives name
+  3. Decides how much they want to play with (bank)
+  3.5. Intial bet before hand
+  4. Cards are dealt
+  5. Game reveals players cards to them
+  6. Game reveals one card of dealers hand
+  7. Decide if they want to hit or stay or double down
+    1. if double down double player bet
+    2. if hit or double down deal one card to player
+    3. repeat till stay
+  8. Return dealers hand and see if player wins hand or if they lose
+  9. add winnings(if any) to bank account and show player their bank balance.
+  10. ask player if they want to continue playing. if they dont tell them their total winnings.
+  11. repeat as long as game_on == true
+  
+  
+  Classes:
+  
+  Player/hand/bank
+  Deck
+  Cards
