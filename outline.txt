@@ -24,6 +24,8 @@ Player perspective:
   
   Classes:
   
-  Player/hand/bank
+  Player/bank
   Deck
   Cards
+  hand
+  
