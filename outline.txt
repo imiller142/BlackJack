@@ -38,5 +38,13 @@ Actions:
   check value of hand against dealers
   shuffle the deck and reset it each round
   
+  Things the player can do:
+  
+    determine starting balance
+    give name
+    place intial bet
+    decide to double down hit or stay (possibly add split ability)
+    exit game
+    
   
 
