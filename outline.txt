@@ -22,10 +22,21 @@ Player perspective:
   11. repeat as long as game_on == true
   
   
-  Classes:
+Classes:
   
   Player/bank
   Deck
   Cards
   hand
   
+Actions:
+  
+  Deal cards
+  check value of hand
+  determine if ace is high or low
+  give only the second cards of the dealer
+  check value of hand against dealers
+  shuffle the deck and reset it each round
+  
+  
+
